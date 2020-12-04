@@ -3,7 +3,7 @@
 
 > HEROKU APP : https://guarded-plains-44390.herokuapp.com/ 
 
-## Steps to run on your local system :
+## Steps to run in your local system :
 
 - Clone or download this repository
 - Open the project in pycharm or any suitable python editor .
