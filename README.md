@@ -1,15 +1,14 @@
 # SMS Spam Collection
 
 
-HEROKU APP : https://guarded-plains-44390.herokuapp.com/ 
+> HEROKU APP : https://guarded-plains-44390.herokuapp.com/ 
 
-1. DESCRIPTION
---------------
+## DESCRIPTION
+
 
 The SMS Spam Collection v.1 (hereafter the corpus) is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam. 
 
-1.1. Compilation
-----------------
+## Compilation
 
 This corpus has been collected from free or free for research sources at the Web:
 
